@@ -26,7 +26,7 @@ $ java -jar cuckooWorker.jar
 
 
 ## System Evalution
-- Time consumption of analyzing 50 malware samples using standalone cuckoo and distribute cuckoo system. 
+- Time consumption of analyzing 50 malware samples using standalone cuckoo and distributed cuckoo system. 
 
 <img src="https://github.com/a110605/cuckoo_agent/blob/master/pictures/2.png" height="300" width="500">
 
